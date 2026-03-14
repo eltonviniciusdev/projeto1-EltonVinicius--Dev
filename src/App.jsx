@@ -38,6 +38,8 @@ function App() {
           <ellipse cx="60" cy="28" rx="40" ry="18" fill="#d2b48c" opacity="0.6"/>
           </svg>
           <img id="cafe2" src='src/assets/caputino.png' alt="Caputino" />
+          <img id="graos2" src="src/assets/graos2.png" alt='graos' />
+          <img id="graos" src="src/assets/graos.png" alt='graos' />
         </div>
         <div className="right-side">
           <h2>Bem vindo ao nosso café!</h2>
